@@ -12,7 +12,7 @@ h1 {
   height: 25px;
   margin: 10px auto;
 }
-
+/* trying out different ways to color specific elements */
 .red {
   background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0, 0, 255));
 }
@@ -20,6 +20,7 @@ h1 {
 .green {
   background-color: #007F00;
 }
+
 
 .blue {
   background-color: hsl(240, 100%, 50%);
